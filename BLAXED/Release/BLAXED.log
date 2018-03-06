@@ -1,0 +1,159 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(373,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  AARec.cpp
+  AimbotRecode.cpp
+  AimbotV2.cpp
+  AnimatedClanTag.cpp
+  AntiAimV2.cpp
+  AutoWall.cpp
+  BunnyHop.cpp
+  CBaseEntity.cpp
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file AimbotRecode.cpp)
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file AARec.cpp)
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file AnimatedClanTag.cpp)
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file AutoWall.cpp)
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file CBaseEntity.cpp)
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file AimbotV2.cpp)
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file BunnyHop.cpp)
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file AntiAimV2.cpp)
+AutoWall.cpp(305): warning C4101: 'endHitgroup': unreferenced local variable
+c:\users\vmitr\google drive\source\csgo\blaxed\AutoStrafer.h(210): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file BunnyHop.cpp)
+AimbotRecode.cpp(115): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+AimbotRecode.cpp(121): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+AimbotRecode.cpp(726): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+AimbotRecode.cpp(751): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+  Chams.cpp
+  checksum.cpp
+  Configs.cpp
+  ConVar.cpp
+  ConvarSpoofer.cpp
+  CreateMove.cpp
+  DamageESP.cpp
+  DirectX.cpp
+  dllmain.cpp
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file Chams.cpp)
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file ConvarSpoofer.cpp)
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file CreateMove.cpp)
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file Configs.cpp)
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file ConVar.cpp)
+Chams.cpp(108): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+Chams.cpp(107): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+Chams.cpp(106): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+Chams.cpp(125): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file DamageESP.cpp)
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file DirectX.cpp)
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file dllmain.cpp)
+  DoPostScreenSpaceEffects.cpp
+  Draw.cpp
+  DrawModel.cpp
+  ESP.cpp
+  FakeLag.cpp
+  FireBullets.cpp
+  FireEventClientSide.cpp
+  FrameStageNotify.cpp
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file DoPostScreenSpaceEffects.cpp)
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file Draw.cpp)
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file DrawModel.cpp)
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file ESP.cpp)
+DoPostScreenSpaceEffects.cpp(26): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+DoPostScreenSpaceEffects.cpp(32): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file FakeLag.cpp)
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file FireBullets.cpp)
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file FireEventClientSide.cpp)
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file FrameStageNotify.cpp)
+  GameEvents.cpp
+  Global.cpp
+  GrenadePrediction.cpp
+  HitMarkers.cpp
+  Hooks.cpp
+  HUDIndicators.cpp
+  IMaterialSystem.cpp
+  imgui_dx9.cpp
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file GameEvents.cpp)
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file Global.cpp)
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file GrenadePrediction.cpp)
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file HitMarkers.cpp)
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file Hooks.cpp)
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file HUDIndicators.cpp)
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file IMaterialSystem.cpp)
+  imgui.cpp
+ImGUI\imgui.cpp(6842): warning C4305: 'argument': truncation from 'double' to 'float'
+  imgui_draw.cpp
+  InPrediction.cpp
+  Interfaces.cpp
+  IsPlayingTimeDemo.cpp
+  LagCompensation.cpp
+  MainThread.cpp
+  Math.cpp
+  MenuV2.cpp
+  NameStealer.cpp
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file InPrediction.cpp)
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file Interfaces.cpp)
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file IsPlayingTimeDemo.cpp)
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file Math.cpp)
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file LagCompensation.cpp)
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file MainThread.cpp)
+  NET_SetConvar.cpp
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file MenuV2.cpp)
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file NameStealer.cpp)
+LagCompensation.cpp(174): warning C4018: '<': signed/unsigned mismatch
+LagCompensation.cpp(176): warning C4018: '<': signed/unsigned mismatch
+c:\users\vmitr\google drive\source\csgo\blaxed\MenuV2_PlayerListTab.h(71): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. (compiling source file MenuV2.cpp)
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf' (compiling source file MenuV2.cpp)
+MenuV2.cpp(140): warning C4101: 'name': unreferenced local variable
+MenuV2.cpp(275): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\string.h(89): note: see declaration of 'strcat'
+  NightMode.cpp
+  NoRecoil.cpp
+  NoVisualRecoil.cpp
+  OverrideView.cpp
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file NET_SetConvar.cpp)
+  PaintTraverse.cpp
+  PlaySound.cpp
+  Prediction.cpp
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file NightMode.cpp)
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file NoRecoil.cpp)
+  PredictionSystem.cpp
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file NoVisualRecoil.cpp)
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file OverrideView.cpp)
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file PaintTraverse.cpp)
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file PlaySound.cpp)
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file Prediction.cpp)
+  RebuildGameMovement.cpp
+  ResolverV2.cpp
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file PredictionSystem.cpp)
+  SceneEnd.cpp
+  SetupBones.cpp
+  SetupMove.cpp
+  SpoofedConvar.cpp
+  SpreadCrosshair.cpp
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file RebuildGameMovement.cpp)
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file ResolverV2.cpp)
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file SceneEnd.cpp)
+RebuildGameMovement.cpp(217): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file SetupBones.cpp)
+RebuildGameMovement.cpp(387): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+RebuildGameMovement.cpp(427): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+RebuildGameMovement.cpp(441): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+RebuildGameMovement.cpp(543): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+RebuildGameMovement.cpp(610): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+RebuildGameMovement.cpp(729): warning C4305: '=': truncation from 'double' to 'float'
+  TraceRay.cpp
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file SetupMove.cpp)
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file SpoofedConvar.cpp)
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file SpreadCrosshair.cpp)
+SpreadCrosshair.cpp(101): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+SpreadCrosshair.cpp(102): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+  UtlString.cpp
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file TraceRay.cpp)
+  ViewAntiAim.cpp
+  VMatrix.cpp
+  WndProc.cpp
+  WriteUsercmdDeltaToBuffer.cpp
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file ViewAntiAim.cpp)
+c:\users\vmitr\google drive\source\csgo\blaxed\datamap.h(46): warning C4091: 'typedef ': ignored on left of '_fieldtypes' when no variable is declared (compiling source file WndProc.cpp)
+  Generating code
+c:\users\vmitr\google drive\source\csgo\blaxed\cbaseentity.cpp(256): warning C4715: 'CBaseEntity::GetAnimOverlay': not all control paths return a value
+c:\users\vmitr\google drive\source\csgo\blaxed\aimbotrecode.cpp(34): warning C4715: 'CBaseCombatWeapon::CanFire': not all control paths return a value
+  All 4492 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  BLAXED.vcxproj -> C:\Users\vmitr\Google Drive\Source\CSGO\BLAXED\..\meme.dll

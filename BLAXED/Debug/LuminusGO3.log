@@ -1,0 +1,7 @@
+﻿cl : командная строка warning D9030: "/Gm" несовместим с многопроцессорной обработкой; ключ /MP игнорируется
+  FrameStageNotify.cpp
+c:\users\niiii_000\desktop\сурс и протекторы\вы\luminusgo3\datamap.h(46): warning C4091: typedef : пропускается слева от "_fieldtypes", когда ни одна переменная не объявлена
+  AntiAimV2.cpp
+c:\users\niiii_000\desktop\сурс и протекторы\вы\luminusgo3\datamap.h(46): warning C4091: typedef : пропускается слева от "_fieldtypes", когда ни одна переменная не объявлена
+  Создание кода...
+  LuminusGO3.vcxproj -> C:\Users\niiii_000\Desktop\сурс и протекторы\вы\Debug\lugo.dll

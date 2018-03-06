@@ -1,0 +1,868 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\D3DX">
+      <UniqueIdentifier>{b6009642-c4bc-4167-8e21-a257bc339908}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\D3DX">
+      <UniqueIdentifier>{769a088c-c59f-43f6-baf1-92da0977efeb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\D3DX\ImGUI">
+      <UniqueIdentifier>{67af0b72-5400-4f5b-87e3-f62391d4f0a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\D3DX\ImGUI\dx9">
+      <UniqueIdentifier>{6e3bdba6-02bc-4eef-9d4e-9a6b44250229}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\D3DX\ImGUI">
+      <UniqueIdentifier>{320066ba-b25a-43a9-98ac-9c690ee02a99}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\D3DX\ImGUI\dx9">
+      <UniqueIdentifier>{20f92db6-1bd9-406f-85a0-2d9da93e448b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Hook">
+      <UniqueIdentifier>{c6006868-0fdf-4aab-891c-3727d9d8ffed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Hook">
+      <UniqueIdentifier>{deaf921f-6ccf-401b-b8dc-2ee4927bd42a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\SDK">
+      <UniqueIdentifier>{247b1e7e-6747-45be-a727-efbc09600284}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\SDK">
+      <UniqueIdentifier>{01d5dba1-3ccd-41bd-be10-90226acef1d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Cheats">
+      <UniqueIdentifier>{a76af124-8e57-4c73-b9ae-ff61e492da5a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Cheats">
+      <UniqueIdentifier>{17f5bb98-052b-47e4-ae90-523a68f0b488}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Cheats\Walkbot">
+      <UniqueIdentifier>{1536ce99-62ba-4f2f-b665-3b59b896526c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Cheats\GranadePrediction">
+      <UniqueIdentifier>{374035b9-6ce8-4f16-9f5e-b593a0b38c7e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Cheats\GranadePrediction">
+      <UniqueIdentifier>{0189a9ec-a782-4930-88ae-c7efd8312459}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Cheats\ConvarSpoofer">
+      <UniqueIdentifier>{f3c91b20-2895-4422-9b9c-b31fd57abfc8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Cheats\ConvarSpoofer">
+      <UniqueIdentifier>{c776acc2-ee10-4ff1-8423-23cd9f4a3043}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Misc">
+      <UniqueIdentifier>{e58d9313-2d41-45c0-bd56-478d2451adad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Cheats\NightMode">
+      <UniqueIdentifier>{eff81290-e41e-4a4b-9a67-c4b934ec9ddf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Cheats\AutoStrafer">
+      <UniqueIdentifier>{989a3a5d-0621-4c5a-8d97-375a799f6119}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Cheats\ResolverV2">
+      <UniqueIdentifier>{57e4ebb4-33c2-45ac-b34c-974a5dd7102a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Cheats\KillSounds">
+      <UniqueIdentifier>{bd034d58-65c4-4035-8a3b-059abee6e38f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Cheats\LegitBot">
+      <UniqueIdentifier>{77bfd0b6-8c79-4ea7-9264-97592b9b2f63}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\MenuV2">
+      <UniqueIdentifier>{ccfbea93-e13a-46b9-93de-68fa0abd63c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Cheats\LobbyManager">
+      <UniqueIdentifier>{3ef2d3ad-80b2-40f0-803f-3bf6104aa35e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Cheats\NoRecoil">
+      <UniqueIdentifier>{5056cd88-051a-4b2b-902f-4f26104f9921}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Cheats\AntiAimV2">
+      <UniqueIdentifier>{aea59f87-a306-4c0f-ac05-a48ea5f72a68}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Cheats\SpreadCrosshair">
+      <UniqueIdentifier>{dfd6031b-7767-47de-99bf-5fbdd457959f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Cheats\DamageHitmarker">
+      <UniqueIdentifier>{2e8015d5-179c-46f1-b62e-9b6b8f1e5f50}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Cheats\AimbotV2">
+      <UniqueIdentifier>{1b6410bd-c572-4a9f-9a83-90ade46dbb1e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Cheats\AimbotV2">
+      <UniqueIdentifier>{1cc23e95-9181-467e-b991-ae4856c71616}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Cheats\ResolverV2">
+      <UniqueIdentifier>{43d84f2c-a111-49ea-9f24-4f2390a78049}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\D3DX\Hooks">
+      <UniqueIdentifier>{fd9392b1-87d4-4a73-80f5-8c92db3c34e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\D3DX\JSON">
+      <UniqueIdentifier>{f7b9b1f0-7079-4ab9-847a-c293b1ad5f55}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\D3DX\SDK">
+      <UniqueIdentifier>{c5eca84e-ea2c-4e0f-bbf0-03708f5df539}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\D3DX\VMTHook">
+      <UniqueIdentifier>{054b5063-2dc1-4a1d-8a16-b66b76ee5740}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\D3DX\SDK\Classes">
+      <UniqueIdentifier>{94421bb3-0bce-413f-b3b6-cf2baa6dbf40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\D3DX\SDK\Interfaces">
+      <UniqueIdentifier>{bd4a3b24-c367-479b-9ab7-24ccb6dd8631}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\D3DX\SDK\Utilities">
+      <UniqueIdentifier>{8d112de9-d438-4d07-8721-05ca0d850c93}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="dllmain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MainThread.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Global.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DirectX.cpp">
+      <Filter>Source Files\D3DX</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGUI\dx9\imgui_dx9.cpp">
+      <Filter>Source Files\D3DX\ImGUI\dx9</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGUI\imgui.cpp">
+      <Filter>Source Files\D3DX\ImGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGUI\imgui_draw.cpp">
+      <Filter>Source Files\D3DX\ImGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="WndProc.cpp">
+      <Filter>Source Files\Hook</Filter>
+    </ClCompile>
+    <ClCompile Include="Configs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CreateMove.cpp">
+      <Filter>Source Files\Hook</Filter>
+    </ClCompile>
+    <ClCompile Include="Hooks.cpp">
+      <Filter>Source Files\Hook</Filter>
+    </ClCompile>
+    <ClCompile Include="Interfaces.cpp">
+      <Filter>Source Files\SDK</Filter>
+    </ClCompile>
+    <ClCompile Include="VMatrix.cpp">
+      <Filter>Source Files\SDK</Filter>
+    </ClCompile>
+    <ClCompile Include="Math.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CBaseEntity.cpp">
+      <Filter>Source Files\SDK</Filter>
+    </ClCompile>
+    <ClCompile Include="ESP.cpp">
+      <Filter>Source Files\Cheats</Filter>
+    </ClCompile>
+    <ClCompile Include="FrameStageNotify.cpp">
+      <Filter>Source Files\Hook</Filter>
+    </ClCompile>
+    <ClCompile Include="AutoWall.cpp">
+      <Filter>Source Files\Cheats</Filter>
+    </ClCompile>
+    <ClCompile Include="TraceRay.cpp">
+      <Filter>Source Files\Hook</Filter>
+    </ClCompile>
+    <ClCompile Include="NoVisualRecoil.cpp">
+      <Filter>Source Files\Cheats</Filter>
+    </ClCompile>
+    <ClCompile Include="ViewAntiAim.cpp">
+      <Filter>Source Files\Cheats</Filter>
+    </ClCompile>
+    <ClCompile Include="UtlString.cpp">
+      <Filter>Source Files\SDK</Filter>
+    </ClCompile>
+    <ClCompile Include="ConVar.cpp">
+      <Filter>Source Files\SDK</Filter>
+    </ClCompile>
+    <ClCompile Include="NET_SetConvar.cpp">
+      <Filter>Source Files\SDK</Filter>
+    </ClCompile>
+    <ClCompile Include="PredictionSystem.cpp">
+      <Filter>Source Files\Cheats</Filter>
+    </ClCompile>
+    <ClCompile Include="SetupMove.cpp">
+      <Filter>Source Files\Hook</Filter>
+    </ClCompile>
+    <ClCompile Include="FireEventClientSide.cpp">
+      <Filter>Source Files\Hook</Filter>
+    </ClCompile>
+    <ClCompile Include="Prediction.cpp">
+      <Filter>Source Files\Cheats</Filter>
+    </ClCompile>
+    <ClCompile Include="OverrideView.cpp">
+      <Filter>Source Files\Hook</Filter>
+    </ClCompile>
+    <ClCompile Include="BunnyHop.cpp">
+      <Filter>Source Files\Cheats</Filter>
+    </ClCompile>
+    <ClCompile Include="Chams.cpp">
+      <Filter>Source Files\Cheats</Filter>
+    </ClCompile>
+    <ClCompile Include="IMaterialSystem.cpp">
+      <Filter>Source Files\SDK</Filter>
+    </ClCompile>
+    <ClCompile Include="FakeLag.cpp">
+      <Filter>Source Files\Cheats</Filter>
+    </ClCompile>
+    <ClCompile Include="IsPlayingTimeDemo.cpp">
+      <Filter>Source Files\Hook</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimatedClanTag.cpp">
+      <Filter>Source Files\Cheats</Filter>
+    </ClCompile>
+    <ClCompile Include="NameStealer.cpp">
+      <Filter>Source Files\Cheats</Filter>
+    </ClCompile>
+    <ClCompile Include="WriteUsercmdDeltaToBuffer.cpp">
+      <Filter>Source Files\Hook</Filter>
+    </ClCompile>
+    <ClCompile Include="HUDIndicators.cpp">
+      <Filter>Source Files\Cheats</Filter>
+    </ClCompile>
+    <ClCompile Include="SetupBones.cpp">
+      <Filter>Source Files\Hook</Filter>
+    </ClCompile>
+    <ClCompile Include="PaintTraverse.cpp">
+      <Filter>Source Files\Hook</Filter>
+    </ClCompile>
+    <ClCompile Include="Draw.cpp">
+      <Filter>Source Files\Cheats</Filter>
+    </ClCompile>
+    <ClCompile Include="GameEvents.cpp">
+      <Filter>Source Files\Cheats</Filter>
+    </ClCompile>
+    <ClCompile Include="HitMarkers.cpp">
+      <Filter>Source Files\Cheats</Filter>
+    </ClCompile>
+    <ClCompile Include="FireBullets.cpp">
+      <Filter>Source Files\Hook</Filter>
+    </ClCompile>
+    <ClCompile Include="SpoofedConvar.cpp">
+      <Filter>Source Files\SDK</Filter>
+    </ClCompile>
+    <ClCompile Include="GrenadePrediction.cpp">
+      <Filter>Source Files\Cheats\GranadePrediction</Filter>
+    </ClCompile>
+    <ClCompile Include="ConvarSpoofer.cpp">
+      <Filter>Source Files\Cheats\ConvarSpoofer</Filter>
+    </ClCompile>
+    <ClCompile Include="NightMode.cpp">
+      <Filter>Header Files\Cheats\NightMode</Filter>
+    </ClCompile>
+    <ClCompile Include="ResolverV2.cpp">
+      <Filter>Source Files\Cheats\ResolverV2</Filter>
+    </ClCompile>
+    <ClCompile Include="NoRecoil.cpp">
+      <Filter>Header Files\Cheats\NoRecoil</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuV2.cpp">
+      <Filter>Source Files\MenuV2</Filter>
+    </ClCompile>
+    <ClCompile Include="AntiAimV2.cpp">
+      <Filter>Source Files\Cheats\AntiAimV2</Filter>
+    </ClCompile>
+    <ClCompile Include="checksum.cpp">
+      <Filter>Source Files\SDK</Filter>
+    </ClCompile>
+    <ClCompile Include="DoPostScreenSpaceEffects.cpp">
+      <Filter>Source Files\Hook</Filter>
+    </ClCompile>
+    <ClCompile Include="DrawModel.cpp">
+      <Filter>Source Files\Hook</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneEnd.cpp">
+      <Filter>Source Files\Hook</Filter>
+    </ClCompile>
+    <ClCompile Include="SpreadCrosshair.cpp">
+      <Filter>Source Files\Cheats\SpreadCrosshair</Filter>
+    </ClCompile>
+    <ClCompile Include="PlaySound.cpp">
+      <Filter>Source Files\Hook</Filter>
+    </ClCompile>
+    <ClCompile Include="DamageESP.cpp">
+      <Filter>Source Files\Cheats\DamageHitmarker</Filter>
+    </ClCompile>
+    <ClCompile Include="InPrediction.cpp">
+      <Filter>Source Files\Cheats</Filter>
+    </ClCompile>
+    <ClCompile Include="AimbotV2.cpp">
+      <Filter>Source Files\Cheats\AimbotV2</Filter>
+    </ClCompile>
+    <ClCompile Include="AARec.cpp">
+      <Filter>Source Files\Cheats\ResolverV2</Filter>
+    </ClCompile>
+    <ClCompile Include="AimbotRecode.cpp">
+      <Filter>Source Files\Cheats\AimbotV2</Filter>
+    </ClCompile>
+    <ClCompile Include="LagCompensation.cpp">
+      <Filter>Source Files\Cheats\AimbotV2</Filter>
+    </ClCompile>
+    <ClCompile Include="RebuildGameMovement.cpp">
+      <Filter>Source Files\Cheats\AimbotV2</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MainThread.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="main.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Global.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DirectX.h">
+      <Filter>Header Files\D3DX</Filter>
+    </ClInclude>
+    <ClInclude Include="XorStr.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Render.h">
+      <Filter>Header Files\D3DX</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGUI\imconfig.h">
+      <Filter>Header Files\D3DX\ImGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGUI\imgui.h">
+      <Filter>Header Files\D3DX\ImGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGUI\imgui_internal.h">
+      <Filter>Header Files\D3DX\ImGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGUI\stb_rect_pack.h">
+      <Filter>Header Files\D3DX\ImGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGUI\stb_textedit.h">
+      <Filter>Header Files\D3DX\ImGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGUI\stb_truetype.h">
+      <Filter>Header Files\D3DX\ImGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGUI\dx9\imgui_dx9.h">
+      <Filter>Header Files\D3DX\ImGUI\dx9</Filter>
+    </ClInclude>
+    <ClInclude Include="WndProc.h">
+      <Filter>Header Files\Hook</Filter>
+    </ClInclude>
+    <ClInclude Include="Configs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VMT.h">
+      <Filter>Header Files\Hook</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui_tabs.h">
+      <Filter>Header Files\D3DX\ImGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Util.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector.h">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="Hooks.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CreateMove.h">
+      <Filter>Header Files\Hook</Filter>
+    </ClInclude>
+    <ClInclude Include="CUserCmd.h">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="Interfaces.h">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="IEngineClient.h">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="VMatrix.h">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="Misc.h">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="Math.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IClientEntityList.h">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="CBaseEntity.h">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="CGlobalVarsBase.h">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="ESP.h">
+      <Filter>Header Files\Cheats</Filter>
+    </ClInclude>
+    <ClInclude Include="CBaseCombatWeapon.h">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="ModelInfo.h">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="EngineTrace.h">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="FrameStageNotify.h">
+      <Filter>Header Files\Hook</Filter>
+    </ClInclude>
+    <ClInclude Include="AutoWall.h">
+      <Filter>Header Files\Cheats</Filter>
+    </ClInclude>
+    <ClInclude Include="IPhysicsSurfaceProps.h">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="TraceRay.h">
+      <Filter>Header Files\Hook</Filter>
+    </ClInclude>
+    <ClInclude Include="BunnyHop.h">
+      <Filter>Header Files\Cheats</Filter>
+    </ClInclude>
+    <ClInclude Include="NoVisualRecoil.h">
+      <Filter>Header Files\Cheats</Filter>
+    </ClInclude>
+    <ClInclude Include="ViewAntiAim.h">
+      <Filter>Header Files\Cheats</Filter>
+    </ClInclude>
+    <ClInclude Include="FakeLag.h">
+      <Filter>Header Files\Cheats</Filter>
+    </ClInclude>
+    <ClInclude Include="CBaseAttributableItem.h">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="IBaseClientDll.h">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="CBaseViewModel.h">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="ConVar.h">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="ICVar.h">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="IAppSystem.h">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="Definitions.h">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="IConVar.h">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="Color.h">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="UtlVector.h">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="UtlMemory.h">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="UtlString.h">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="INetChannel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="INetChannelInfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NET_SetConvar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="plataform.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="INetMessage.h">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="bitbuf.h">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="IGameMovement.h">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="IPrediction.h">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="IMoveHelper.h">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="CMoveData.h">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PredictionSystem.h">
+      <Filter>Header Files\Cheats</Filter>
+    </ClInclude>
+    <ClInclude Include="IVModelRender.h">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="IMaterial.h">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="DrawModelExecute.h">
+      <Filter>Header Files\Hook</Filter>
+    </ClInclude>
+    <ClInclude Include="Chams.h">
+      <Filter>Header Files\Cheats</Filter>
+    </ClInclude>
+    <ClInclude Include="IVRenderView.h">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="IMaterialSystem.h">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="IPlayerAnimState.h">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="Hitbox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Teleport.h">
+      <Filter>Header Files\Cheats</Filter>
+    </ClInclude>
+    <ClInclude Include="MouseDeltaSimulator.h">
+      <Filter>Header Files\Cheats</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimatedClanTag.h">
+      <Filter>Header Files\Cheats</Filter>
+    </ClInclude>
+    <ClInclude Include="AutoBlock.h">
+      <Filter>Header Files\Cheats</Filter>
+    </ClInclude>
+    <ClInclude Include="SetupMove.h">
+      <Filter>Header Files\Hook</Filter>
+    </ClInclude>
+    <ClInclude Include="IGameEvent.h">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="FireEventClientSide.h">
+      <Filter>Header Files\Hook</Filter>
+    </ClInclude>
+    <ClInclude Include="Prediction.h">
+      <Filter>Header Files\Cheats</Filter>
+    </ClInclude>
+    <ClInclude Include="CInput.h">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="OverrideView.h">
+      <Filter>Header Files\Hook</Filter>
+    </ClInclude>
+    <ClInclude Include="CViewSetup.h">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyValues.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RageBot.h">
+      <Filter>Header Files\Cheats</Filter>
+    </ClInclude>
+    <ClInclude Include="IsPlayingTimeDemo.h">
+      <Filter>Header Files\Hook</Filter>
+    </ClInclude>
+    <ClInclude Include="NameStealer.h">
+      <Filter>Header Files\Cheats</Filter>
+    </ClInclude>
+    <ClInclude Include="WriteUsercmdDeltaToBuffer.h">
+      <Filter>Header Files\Hook</Filter>
+    </ClInclude>
+    <ClInclude Include="CClientState.h">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SetupBones.h">
+      <Filter>Header Files\Cheats</Filter>
+    </ClInclude>
+    <ClInclude Include="HUDIndicators.h">
+      <Filter>Header Files\Cheats</Filter>
+    </ClInclude>
+    <ClInclude Include="IPanel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PaintTraverse.h">
+      <Filter>Header Files\Hook</Filter>
+    </ClInclude>
+    <ClInclude Include="ISurface.h">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="Draw.h">
+      <Filter>Header Files\Cheats</Filter>
+    </ClInclude>
+    <ClInclude Include="GameEvents.h">
+      <Filter>Header Files\Cheats</Filter>
+    </ClInclude>
+    <ClInclude Include="HitMarkers.h">
+      <Filter>Header Files\Cheats</Filter>
+    </ClInclude>
+    <ClInclude Include="FireBullets.h">
+      <Filter>Header Files\Hook</Filter>
+    </ClInclude>
+    <ClInclude Include="C_TEFireBullets.h">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="licence.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="json.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Walkbot.h">
+      <Filter>Header Files\Cheats\Walkbot</Filter>
+    </ClInclude>
+    <ClInclude Include="SpoofedConvar.hpp">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="GranadePrediction.h">
+      <Filter>Header Files\Cheats\GranadePrediction</Filter>
+    </ClInclude>
+    <ClInclude Include="ConvarSpoofer.h">
+      <Filter>Header Files\Cheats\ConvarSpoofer</Filter>
+    </ClInclude>
+    <ClInclude Include="CircularList.h">
+      <Filter>Header Files\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="CircleStrafe.h">
+      <Filter>Header Files\Cheats</Filter>
+    </ClInclude>
+    <ClInclude Include="BoxCircleStrafe.h">
+      <Filter>Header Files\Cheats</Filter>
+    </ClInclude>
+    <ClInclude Include="NightMode.h">
+      <Filter>Header Files\Cheats\NightMode</Filter>
+    </ClInclude>
+    <ClInclude Include="IEffects.h">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="AutoStrafer.h">
+      <Filter>Source Files\Cheats\AutoStrafer</Filter>
+    </ClInclude>
+    <ClInclude Include="CGlowObjectManager.h">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="resource1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="csgo_icons.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="KillSounds.h">
+      <Filter>Source Files\Cheats\KillSounds</Filter>
+    </ClInclude>
+    <ClInclude Include="LegitBot.h">
+      <Filter>Header Files\Cheats\LegitBot</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuV2.h">
+      <Filter>Source Files\MenuV2</Filter>
+    </ClInclude>
+    <ClInclude Include="LobbyManager.h">
+      <Filter>Header Files\Cheats\LobbyManager</Filter>
+    </ClInclude>
+    <ClInclude Include="NoRecoil.h">
+      <Filter>Header Files\Cheats\NoRecoil</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuV2_AimbotTab.h">
+      <Filter>Source Files\MenuV2</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuV2_ConfigTab.h">
+      <Filter>Source Files\MenuV2</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuV2_PlayerListTab.h">
+      <Filter>Source Files\MenuV2</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuV2_RageBotTab.h">
+      <Filter>Source Files\MenuV2</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuV2_MiscTab.h">
+      <Filter>Source Files\MenuV2</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuV2_VisualTab.h">
+      <Filter>Source Files\MenuV2</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuV2_LegitBotTab.h">
+      <Filter>Source Files\MenuV2</Filter>
+    </ClInclude>
+    <ClInclude Include="CCSGameRulesProxy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CircleStrafeV2.h">
+      <Filter>Header Files\Cheats</Filter>
+    </ClInclude>
+    <ClInclude Include="AntiAimV2.h">
+      <Filter>Source Files\Cheats\AntiAimV2</Filter>
+    </ClInclude>
+    <ClInclude Include="checksum.h">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="DoPostScreenSpaceEffects.h">
+      <Filter>Header Files\Hook</Filter>
+    </ClInclude>
+    <ClInclude Include="DrawModel.h">
+      <Filter>Header Files\Hook</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneEnd.h">
+      <Filter>Header Files\Hook</Filter>
+    </ClInclude>
+    <ClInclude Include="IStudioRender.h">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="NetChannelHook.h">
+      <Filter>Header Files\Hook</Filter>
+    </ClInclude>
+    <ClInclude Include="SpreadCrosshair.h">
+      <Filter>Source Files\Cheats\SpreadCrosshair</Filter>
+    </ClInclude>
+    <ClInclude Include="PlaySound.h">
+      <Filter>Header Files\Hook</Filter>
+    </ClInclude>
+    <ClInclude Include="DamageESP.h">
+      <Filter>Source Files\Cheats\DamageHitmarker</Filter>
+    </ClInclude>
+    <ClInclude Include="InPrediction.h">
+      <Filter>Header Files\Hook</Filter>
+    </ClInclude>
+    <ClInclude Include="VMTManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AimbotV2.h">
+      <Filter>Header Files\Cheats\AimbotV2</Filter>
+    </ClInclude>
+    <ClInclude Include="ResolverV2.h">
+      <Filter>Header Files\Cheats\ResolverV2</Filter>
+    </ClInclude>
+    <ClInclude Include="AARec.h">
+      <Filter>Header Files\Cheats\ResolverV2</Filter>
+    </ClInclude>
+    <ClInclude Include="QAngle.h">
+      <Filter>Header Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="RebuildGameMovement.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AimbotRecode.h">
+      <Filter>Header Files\Cheats\AimbotV2</Filter>
+    </ClInclude>
+    <ClInclude Include="LagCompensation.h">
+      <Filter>Header Files\Cheats\AimbotV2</Filter>
+    </ClInclude>
+    <ClInclude Include="SkinChanger\FindPattern.hpp">
+      <Filter>Source Files\D3DX</Filter>
+    </ClInclude>
+    <ClInclude Include="SkinChanger\Interface.hpp">
+      <Filter>Source Files\D3DX</Filter>
+    </ClInclude>
+    <ClInclude Include="SkinChanger\ItemDefinitions.hpp">
+      <Filter>Source Files\D3DX</Filter>
+    </ClInclude>
+    <ClInclude Include="SkinChanger\RecvProxyHook.hpp">
+      <Filter>Source Files\D3DX</Filter>
+    </ClInclude>
+    <ClInclude Include="SkinChanger\Hooks\FireEventClientSide.hpp">
+      <Filter>Source Files\D3DX\Hooks</Filter>
+    </ClInclude>
+    <ClInclude Include="SkinChanger\Hooks\FrameStageNotify.hpp">
+      <Filter>Source Files\D3DX\Hooks</Filter>
+    </ClInclude>
+    <ClInclude Include="SkinChanger\Hooks\IDirect3DDevice9.hpp">
+      <Filter>Source Files\D3DX\Hooks</Filter>
+    </ClInclude>
+    <ClInclude Include="SkinChanger\Hooks\Sequence.hpp">
+      <Filter>Source Files\D3DX\Hooks</Filter>
+    </ClInclude>
+    <ClInclude Include="SkinChanger\JSON\json.hpp">
+      <Filter>Source Files\D3DX\JSON</Filter>
+    </ClInclude>
+    <ClInclude Include="SkinChanger\SDK\SDK.hpp">
+      <Filter>Source Files\D3DX\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SkinChanger\VMTHook\vmthook.h">
+      <Filter>Source Files\D3DX\VMTHook</Filter>
+    </ClInclude>
+    <ClInclude Include="SkinChanger\SDK\Classes\CBaseClientState.hpp">
+      <Filter>Source Files\D3DX\SDK\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="SkinChanger\SDK\Classes\CBaseEntity.hpp">
+      <Filter>Source Files\D3DX\SDK\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="SkinChanger\SDK\Classes\ClientClass.hpp">
+      <Filter>Source Files\D3DX\SDK\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="SkinChanger\SDK\Classes\DataTable.hpp">
+      <Filter>Source Files\D3DX\SDK\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="SkinChanger\SDK\Classes\IClientEntity.hpp">
+      <Filter>Source Files\D3DX\SDK\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="SkinChanger\SDK\Classes\IGameEvent.hpp">
+      <Filter>Source Files\D3DX\SDK\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="SkinChanger\SDK\Interfaces\IBaseClientDLL.hpp">
+      <Filter>Source Files\D3DX\SDK\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="SkinChanger\SDK\Interfaces\IClientEntityList.hpp">
+      <Filter>Source Files\D3DX\SDK\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="SkinChanger\SDK\Interfaces\IGameEventManager2.hpp">
+      <Filter>Source Files\D3DX\SDK\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="SkinChanger\SDK\Interfaces\IVEngineClient.hpp">
+      <Filter>Source Files\D3DX\SDK\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="SkinChanger\SDK\Interfaces\IVModelInfoClient.hpp">
+      <Filter>Source Files\D3DX\SDK\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="SkinChanger\SDK\Utilities\Interface.hpp">
+      <Filter>Source Files\D3DX\SDK\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="SkinChanger\SDK\Utilities\NetVars.hpp">
+      <Filter>Source Files\D3DX\SDK\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="SkinChanger\SDK\Utilities\Virtuals.hpp">
+      <Filter>Source Files\D3DX\SDK\Utilities</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Render.cpp">
+      <Filter>Source Files\D3DX</Filter>
+    </None>
+    <None Include="DrawModelExecute.cpp">
+      <Filter>Source Files\Hook</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="LuminusGO3.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
