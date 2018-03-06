@@ -10,3 +10,5 @@ https://i.imgur.com/GyUMY7h.jpg
 https://www.unknowncheats.me/forum/cs-go-releases/264716-blaxed.html
 
 Maybe some one will want to help you, I don't have the time...
+
+You can also stress AlexMaster, he can help with some stuff.
