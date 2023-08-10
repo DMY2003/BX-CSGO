@@ -7,8 +7,8 @@
 
 Free open-source cross-platform cheat software for **Counter-Strike: Global Offensive** game. Designed as an internal cheat - [Dynamic-link library](https://en.wikipedia.org/wiki/Dynamic-link_library) (DLL) loadable into game process. Compatible with the Steam version of the game. Available for Windows systems.
 
-<img src="https://i.imgur.com/E9UiUyQ.png">
-<img src="https://i.imgur.com/GyUMY7h.jpg">
+<img src="https://raw.githubusercontent.com/DMY2003/BX-CSGO/master/Images/pic1.png">
+<img src="https://raw.githubusercontent.com/DMY2003/BX-CSGO/master/Images/pic2.jpg">
 
 ## Getting started
 
